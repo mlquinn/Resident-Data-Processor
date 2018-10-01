@@ -10,5 +10,5 @@ This script takes the resulting .txt file from Resident Data Collector and forma
 # Resident Data Processor
 This script takes the XML file from Resident Data Formatter and parses through the information to determine things about the residents such as student status and the average ages of students and non students. 
 
-# Resdient.CSS
+# Resident.CSS
 This is the stylesheet for the XML for easier viewing in a browser for manual data processing or verification of data form factors. 
