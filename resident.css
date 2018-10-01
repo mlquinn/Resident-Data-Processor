@@ -1,0 +1,24 @@
+""" 
+CSS sheet for resident.xml file.
+
+@author Michael Quinn
+@date September 25, 2018
+@version 0.1
+"""
+
+residents{
+	display: table;
+}
+age,name,student,nameCol,ageCol,studentCol{
+	display: table-cell;
+	padding: 2px;
+	margin: 2px;
+	border: thin solid;
+}
+resident {
+	display: table-row;
+}
+header {
+	display: table-row;
+	font: 1.5em bold ;
+}
